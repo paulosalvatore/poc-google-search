@@ -23,7 +23,7 @@ Dessa forma, gostaria de automatizar essa geração de imagens usando ChatGPT.
 
 Portanto, para o texto da aula, traga o termo de pesquisa completo que devo usar para extrair imagens. É importante que você traga uma lista de termos de pesquisa mais detalhados, para que a imagem buscada seja o mais próximo possível da realidade.
 Como vou usar isso em um software, traga uma lista dos termos já estrutura em JavaScript, sem nenhuma informação extra, apenas o código necessário para criar a lista de termos e fazer a pesquisa.
-É importante que tenha apenas 3 termos, selecionados da melhor forma para representar a ideia do texto da aula.
+É importante que tenha de 3 a 10 termos, selecionados da melhor forma para representar a ideia do texto da aula.
 
 
 ----- Texto da aula:
